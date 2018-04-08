@@ -1,3 +1,3 @@
 # Hello-world
 
-## my name is Jie Song  
+## my name is Jie Song. 
